@@ -23,15 +23,15 @@ Cookai는 다양한 레시피를 공유하고, 자신에게 맞는 레시피를 
 
 ## 🧑‍🤝‍🧑 팀원 구성 및 역할 분담
 
-- 팀장😄 <a href="https://github.com/2017250297-choi">최창수</a><br>[BE] 댓글 좋아요, 추천알고리즘 개발, 검색 기능, 테스트코드 <br>[FE] 메인페이지, 게시글 목록, 댓글 좋아요, 게시글 북마크
+- 팀장😄 <a href="https://github.com/2017250297-choi">OOO</a><br>[BE] 댓글 좋아요, 추천알고리즘 개발, 검색 기능, 테스트코드 <br>[FE] 메인페이지, 게시글 목록, 댓글 좋아요, 게시글 북마크
   <br>
 
-- 팀원😄 <a href="https://github.com/hyukjunkim1116">김혁준</a><br> [BE] 유저 프로필(CRUD), 팔로잉, 유저시리얼라이저 사용자 인증 시스템 개발, '나의 냉장고' 기능개발, 이미지 CloudFlare와 연동 <br>[FE] 유저 프로필 CRUD, 게시글 및 유저 프로필 이미지 업로드, 유저 인증 시스템
+- 팀원😄 <a href="https://github.com/hyukjunkim1116">OOO</a><br> [BE] 유저 프로필(CRUD), 팔로잉, 유저시리얼라이저 사용자 인증 시스템 개발, '나의 냉장고' 기능개발, 이미지 CloudFlare와 연동 <br>[FE] 유저 프로필 CRUD, 게시글 및 유저 프로필 이미지 업로드, 유저 인증 시스템
   <br>
 
-- 팀원😄 <a href="https://github.com/woongpang/">이기웅</a><br>[BE] 게시글 상세보기, 쿠팡 상품추천 <br>[FE] 쿠팡 API 개발, 쿠팡 추천 상품DB 개발
-- 팀원😄 <a href="https://github.com/ltekean/">이정민</a><br>[BE] 게시글 CRUD 및 댓글 CRUD 개발, 북마크, 좋아요 기능 개발 <br>[FE] 프로필페이지, 팔로잉 리스트, 유저 정보수정
-- 팀원😄 <a href="https://github.com/R40N/">임라온</a><br>[BE] 기본 스켈레톤 구성 <br>[FE] 사물인식
+- 팀원😄 <a href="https://github.com/woongpang/">OOO</a><br>[BE] 게시글 상세보기, 쿠팡 상품추천 <br>[FE] 쿠팡 API 개발, 쿠팡 추천 상품DB 개발
+- 팀원😄 <a href="https://github.com/ltekean/">OOO</a><br>[BE] 게시글 CRUD 및 댓글 CRUD 개발, 북마크, 좋아요 기능 개발 <br>[FE] 프로필페이지, 팔로잉 리스트, 유저 정보수정
+- 팀원😄 <a href="https://github.com/R40N/">OOO</a><br>[BE] 기본 스켈레톤 구성 <br>[FE] 사물인식
   <br>
   <br>
 
